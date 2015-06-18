@@ -1,5 +1,5 @@
 {
-    "name": "zazza/phalcon2-debug-widget",
+    "name": "ilyaskorik/phalcon2-debug-widget",
     "description": "Phalcon debug toolbar for Phalcon 2",
     "require": {
         "php": ">=5.3.0"
@@ -7,8 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Dmitry Samotoy",
-            "email": "dmitry.samotoy@gmail.com"
+            "name": "Ilya Skorik",
+            "email": "ilya@skorik.co"
         }
     ],
     "minimum-stability": "dev",
